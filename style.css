@@ -579,8 +579,8 @@ h2 em {
     transform 0.2s ease;
 }
 .social-link svg {
-  width: 13px;
-  height: 13px;
+  width: 30px;
+  height: 30px;
   fill: currentColor;
 }
 .social-link:hover {
